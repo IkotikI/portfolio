@@ -1,6 +1,6 @@
 # Portfolio, work examples.
 
-## PHP && JS
+## PHP & JS
 - [Quiz full stack, mounted to WordPress](https://winpure.ru/)
 
 - [\<No Link>](#) Display branches points in Yandex Map; change branch description on click balloon.
