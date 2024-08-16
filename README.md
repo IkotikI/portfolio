@@ -3,7 +3,7 @@
 ## PHP & JS
 - [Quiz full stack, mounted to WordPress](https://winpure.ru/)
 
-- [\<No Link>](#) Display branches points in Yandex Map; change branch description on click balloon.
+- [Display branches points in Yandex Map; change branch description on click balloon.](https://github.com/IkotikI/interactive-ymap-fullstack) 
 
 - [WooCommerce hook calculator Amount-Square](https://www.importdreva.cz/terasova-prkna-jemna-hruba-27x142x5000-kvalita-ab-sibirsky-modrin/)
 Recalculations:
